@@ -1,0 +1,5 @@
+#ignorar archivos del sistema
+.DS_store
+*.avi
+*.mp4
+*.weights
